@@ -1,0 +1,10 @@
+id: YDP190HT002-V9
+category: displays
+size: "1.9"
+panel: tft
+resolution: 170x320
+interface: [mcu, qspi]
+driver: ST7789
+touch: CST816D
+outline: 30.00 x 65.00 x 3.51 mm
+active_area: 22.7 x 42.72 mm
